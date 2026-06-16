@@ -11,12 +11,19 @@ Ngoài ra hệ thống tích hợp Trợ lý AI hỗ trợ tư vấn sản phẩ
 ✨ Đặc trưng
 
 👥 Quản lý người dùng và phân quyền
+
 Đăng ký, đăng nhập, quên mật khẩu.
+
 Xác thực JWT.
+
 Phân quyền theo vai trò:
+
 ADMIN
+
 STAFF
+
 DELIVERY
+
 CUSTOMER
 
 🥬 Quản lý sản phẩm nông sản
