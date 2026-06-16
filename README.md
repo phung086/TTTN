@@ -195,26 +195,16 @@ DevOps
 🏗️ Kiến trúc hệ thống
 
 Frontend (NextJS)
-
-
-                │
- 
-                ▼
-
+        │
+        ▼
  REST API (JSON)
-
-                │
- 
-                ▼
-
+        │
+        ▼
 Backend (Spring Boot)
-                │
-
+        │
  ┌──────┴──────┐
- 
- ▼                     ▼
-
-MySQL               AI Service        
+ ▼             ▼
+  
 
 🗄️ Cơ sở dữ liệu
 
@@ -473,61 +463,37 @@ CUSTOMER
 1. Khách hàng
 
 Đăng ký
-
    ↓
-
 Đăng nhập
-
    ↓
-
-Tìm kiếm sản phẩm
-   
+Tìm kiếm sản phẩm   
    ↓
-
 Thêm vào giỏ hàng
-
    ↓
-
 Đặt hàng
-
    ↓
-
 Thanh toán
-
    ↓
-
 Theo dõi đơn hàng
 
 2. Nhân viên
 
 Nhận đơn
-
    ↓
-
 Xác nhận đơn
-
    ↓
-
 Chuẩn bị hàng
-
    ↓
-
 Bàn giao cho shipper
 
 3. Shipper
 
 Nhận đơn
-
    ↓
-
 Giao hàng
-
    ↓
-
 Cập nhật trạng thái
-
    ↓
-
 Hoàn tất
 
 🧪 Kiểm thử
