@@ -1,17 +1,31 @@
 🌱 Hệ Thống Quản Lý và Kinh Doanh Nông Sản Trực Tuyến
+
 📖 Tổng quan
+
 Hệ Thống Quản Lý và Kinh Doanh Nông Sản Trực Tuyến là một nền tảng thương mại điện tử hỗ trợ quản lý, kinh doanh và phân phối các sản phẩm nông sản trên môi trường số.
+
 Hệ thống cho phép khách hàng tìm kiếm sản phẩm, đặt hàng, thanh toán và theo dõi đơn hàng trực tuyến. Đồng thời hỗ trợ quản trị viên, nhân viên xử lý đơn hàng và nhân viên giao hàng quản lý toàn bộ hoạt động kinh doanh từ sản phẩm, tồn kho, đơn hàng đến báo cáo doanh thu.
+
 Ngoài ra hệ thống tích hợp Trợ lý AI hỗ trợ tư vấn sản phẩm, mùa vụ, chính sách mua hàng và giải đáp thắc mắc của khách hàng.
+
 ✨ Đặc trưng
+
 👥 Quản lý người dùng và phân quyền
+
 •	Đăng ký, đăng nhập, quên mật khẩu.
+
 •	Xác thực JWT.
+
 •	Phân quyền theo vai trò:
+
 o	ADMIN
+
 o	STAFF
+
 o	DELIVERY
+
 o	CUSTOMER
+
 🥬 Quản lý sản phẩm nông sản
 •	Quản lý danh mục sản phẩm.
 •	Quản lý sản phẩm.
