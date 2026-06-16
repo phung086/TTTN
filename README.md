@@ -496,7 +496,8 @@ CUSTOMER
         
            ↓
 
-  Theo dõi đơn hàng
+   Theo dõi đơn hàng
+
 
 2. Nhân viên
 
@@ -505,12 +506,15 @@ CUSTOMER
         ↓
 
    Xác nhận đơn
+ 
         ↓
 
   Chuẩn bị hàng
+  
         ↓
 
 Bàn giao cho shipper
+
 
 3. Shipper
 
@@ -527,6 +531,7 @@ Cập nhật trạng thái
         ↓
 
     Hoàn tất
+
 
 🧪 Kiểm thử
 
