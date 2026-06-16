@@ -126,7 +126,7 @@ Backend
 
 Frontend
         
-        •	NodeJS 20+
+        •	NextJS 20+
         
         •	npm hoặc yarn
 
