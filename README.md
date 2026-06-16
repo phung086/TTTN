@@ -472,59 +472,61 @@ CUSTOMER
 
 1. Khách hàng
 
-Đăng ký
-
-        ↓
-
-Đăng nhập
-           ↓
-
-Tìm kiếm sản phẩm
+        Đăng ký
 
            ↓
 
-Thêm vào giỏ hàng
+       Đăng nhập
+
+           ↓
+
+   Tìm kiếm sản phẩm
+
+           ↓
+
+   Thêm vào giỏ hàng
         
            ↓
 
-Đặt hàng
+        Đặt hàng
         
            ↓
 
-Thanh toán
+      Thanh toán
         
            ↓
 
-Theo dõi đơn hàng
+  Theo dõi đơn hàng
 
 2. Nhân viên
 
-Nhận đơn
+     Nhận đơn
 
-   ↓
+        ↓
 
-Xác nhận đơn
-   ↓
+   Xác nhận đơn
+        ↓
 
-Chuẩn bị hàng
-   ↓
+  Chuẩn bị hàng
+        ↓
 
 Bàn giao cho shipper
 
 3. Shipper
 
-Nhận đơn
+    Nhận đơn
 
-   ↓
+        ↓
 
-Giao hàng
+    Giao hàng
 
-   ↓
+        ↓
 
 Cập nhật trạng thái
-   ↓
 
-Hoàn tất
+        ↓
+
+    Hoàn tất
 
 🧪 Kiểm thử
 
