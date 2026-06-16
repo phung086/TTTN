@@ -196,16 +196,22 @@ DevOps
 
 Frontend (NextJS)
 
+
         │
+ 
         ▼
 
  REST API (JSON)
+
         │
+ 
         ▼
 
 Backend (Spring Boot)
         │
+
  ┌──────┴──────┐
+ 
  ▼             ▼
 
 MySQL       AI Service
