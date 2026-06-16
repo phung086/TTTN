@@ -210,11 +210,11 @@ Backend (Spring Boot)
 
         │
         
- ┌──────        ┴──────┐
+ ┌──────┴──────┐
  
- ▼                    ▼
+ ▼             ▼
  
-MySQL                       AI Service
+MySQL      AI Service
 
 🗄️ Cơ sở dữ liệu
 
@@ -474,22 +474,26 @@ CUSTOMER
 
 Đăng ký
 
-   ↓
+        ↓
 
 Đăng nhập
-   ↓
+           ↓
 
-Tìm kiếm sản phẩm   
-   ↓
+Tìm kiếm sản phẩm
+
+           ↓
 
 Thêm vào giỏ hàng
-   ↓
+        
+           ↓
 
 Đặt hàng
-   ↓
+        
+           ↓
 
 Thanh toán
-   ↓
+        
+           ↓
 
 Theo dõi đơn hàng
 
